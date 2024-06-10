@@ -1,8 +1,7 @@
 <h1>Hacerio</h1>
-<p>Arduino C</p>
-<br>
 <h2>C++/CLI</h2>
 <br>
+<p>Arduino C</p>
 <p>.Net Framework<p>
 <br>
 <p>ACS TP</p>
