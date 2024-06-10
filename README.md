@@ -1,8 +1,12 @@
-Student of 4 year of college
+<h1>Hacerio</h1>
+<p>Arduino C</p>
 <br>
-Arduino C && C++ Dev
+<h2>C++/CLI</h2>
 <br>
-ACS TP Engineer
+<p>.Net Framework<p>
+<br>
+<p>ACS TP</p>
+<h2>Dev of HacerioPilot(Spoiler) :)</h2>
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hacer1o&show_icons=true&theme=dark)
