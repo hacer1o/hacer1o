@@ -4,7 +4,7 @@
 <p>Arduino C</p>
 <p>.Net Framework<p>
 <p>ACS TP</p>
-<p>Dev of HacerioPilot(Spoiler) :)</p>
+<p>HacerioPilot</p>
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hacer1o&show_icons=true&theme=dark)
